@@ -1,0 +1,30 @@
+Data Managment and Governance - Atividade 1
+
+Primeiro problema
+
+Backstory: Empresa é dona de um software para rastreamento veicular
+
+Problemas a serem tratados
+
+1*	Os usuários tem contato direto do Desenvolvedor, sendo assim qualquer problema com o software entram em contato com o Desenvolvedor. sendo assim tendo diversos clientes acionando o único desenvolvedor para a solução do problema
+
+2*	Atualmente não existe versionamento de código fonte, onde tudo que é atualizado todos os backups e deploys são feitos de forma manual
+
+3*	Normalmente existem atualizações na base de dados solicitadas pelo cliente sem que aja uma aprovação de um "Data Owner"
+
+4*	Ausência de ferramentas/procedimentos de chamados tem sido um problema constante
+
+5*	Atualmente todo e qualquer desenvolvimento é feito no ambiente produtivo (Produção)
+
+Possíveis soluções: 
+
+1*	Implementação de um sistema/processo de chamados com classificação de solicitações/incidentes
+
+2*	Implementação de um processo CI/CD (onde qualquer mudança é altamente mapeada e precisa de uma autorização para o Deploy)
+
+3*	Ter um Data Owner ou Responsável pelo gerenciamento das informações para aprovar todo e qualquer tipo de mudança
+
+4*	Aquisição de um P.O (Product Owner) para fazer o gerenciamento das demandas e ponte com a área de negócios/usuário final
+
+5* 	Realizando uma criação de um ambiente de testes/homologação
+
