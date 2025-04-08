@@ -1,0 +1,10 @@
+Criar uma politica de gestão de acessos OU gestão de incidentes OU gestão GMUD gerência de mudança
+
+Processo de Concessão de Acesso ( Fluxograma )
+Procedimento ( Solicitante acessa o sistema de chamados XXX no endereço Y, faz …. ) Os atendentes……
+
+Veículo ( Tabela Veiculo ) - Catálogo
+
+Fluxo de aprovação via CI CD para deploy de mudanças de ETL ( Quando uma nova DAG é colocada em produção um processo de CI CD testa as automações e envia uma solicitação ao time de engenharia para aprovação de GMUD… abre chamado…
+
+Deploy de DAG do Airflow ( Fluxo de aprovação no GITLAB ou GIT )
