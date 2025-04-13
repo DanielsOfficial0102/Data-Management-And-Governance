@@ -67,6 +67,12 @@ O catálogo em Excel documenta os principais ativos de dados, descrevendo:
 
 ---
 
+## 🖥️ Apresentação Da Solução
+
+📄 [Proposta](./Data%20Management%20and%20Governance.pptx)
+
+---
+
 ## ✍️ Conclusão
 
 A adoção de processos claros, esteiras bem definidas e papéis responsáveis garante:
